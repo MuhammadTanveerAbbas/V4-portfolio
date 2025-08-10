@@ -185,7 +185,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Layer editor.webp",
+      image: "/Layer-editor.webp",
     },
     {
       title: "Aurielle Jewelry",
@@ -207,7 +207,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Aurielle Jewelry.webp",
+      image: "/Aurielle-Jewelry.webp",
     },
     {
       title: "Zesty Mint",
@@ -229,7 +229,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/Zesty Mint.webp",
+      image: "/ZestyMint.webp",
     },
     {
       title: "AI Summary",
@@ -251,7 +251,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/AI summary.webp",
+      image: "/AI-summary.webp",
     },
   ],
 } as const;
