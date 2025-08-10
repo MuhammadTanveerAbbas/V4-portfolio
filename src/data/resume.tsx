@@ -10,7 +10,7 @@ export const DATA = {
   summary:
     "Web developer with a strong focus on SEO and marketing principles. Building fast, responsive, and scalable applications optimized for search engines since 2023. I help businesses and individuals establish a powerful online presence through performance optimization, SEO best practices, and conversion-focused development. Experienced across diverse projects with a commitment to continuous learning in both technology and business strategy.",
   avatarUrl: "/me.webp",
-  url: "https://muhammadtanveerabbas.vercel.app/",
+  url: "tanveer.github.io",
   skills: [
     "HTML",
     "CSS",
@@ -210,7 +210,7 @@ export const DATA = {
       image: "/Aurielle-Jewelry.webp",
     },
     {
-      title: "Zesty Mint",
+      title: "ZestyMint",
       href: "https://zestymint.vercel.app/",
       dates: "May 2025",
       active: true,
@@ -229,7 +229,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/ZestyMint.jpg",
+      image: "/Zestymint.webp",
     },
     {
       title: "AI Summary",
@@ -251,7 +251,7 @@ export const DATA = {
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/AI-summary.jpg",
+      image: "/AI-Summary.webp",
     },
   ],
 } as const;
