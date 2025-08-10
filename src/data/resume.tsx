@@ -142,7 +142,7 @@ export const DATA = {
       school: "FreeCodeCamp",
       href: "https://freecodecamp.org/certification/MuhammadTanveerAbbas/javascript-algorithms-and-data-structures-v8",
       degree: "JavaScript Algorithms and Data Structures",
-      logoUrl: "/Freecodecamp.webp",
+      logoUrl: "/FreeCodeCamp.webp",
       start: "Dec 2024",
       end: "Jul 2025",
     },
