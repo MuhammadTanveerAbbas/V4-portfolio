@@ -2,8 +2,6 @@
 
 # V4 Portfolio 🚀
 
-![Portfolio Preview](https://i.postimg.cc/02Zf53D9/Preview.png)
-
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=for-the-badge)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -11,8 +9,6 @@
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
 
 </div>
-
----
 
 ## ✨ Overview
 
