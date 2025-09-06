@@ -121,6 +121,14 @@ export const DATA = {
       start: "Dec 2022",
       end: "Jun 2026",
     },
+   {
+      school: "Claude",
+      href: "https://verify.skilljar.com/c/sdqqcxaeu566",
+      degree: "AI Fluency Framework Foundations",
+      logoUrl: "/Claude.webp",
+      start: "Aug 2025",
+      end: "Sep 2025",
+    },
     {
       school: "Udemy",
       href: "https://www.udemy.com/certificate/UC-59223166-900f-4a9e-b2ee-d80efe22dbce/",
@@ -136,14 +144,6 @@ export const DATA = {
       logoUrl: "/FreeCodeCamp.webp",
       start: "Dec 2024",
       end: "Jul 2025",
-    },
-    {
-      school: "Claude",
-      href: "https://verify.skilljar.com/c/sdqqcxaeu566",
-      degree: "AI Fluency Framework Foundations",
-      logoUrl: "/Claude.webp",
-      start: "Aug 2025",
-      end: "Sep 2025",
     },
   ],
 
