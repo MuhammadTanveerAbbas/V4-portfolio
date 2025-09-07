@@ -8,7 +8,7 @@ export const DATA = {
   locationLink: "https://www.google.com/maps/place/punjab",
   description: "SaaS MVP Developer & Full Stack Developer",
   summary:
-    "Helping founders and businesses transform ideas into scalable SaaS products. I specialize in designing and building fast, conversion-focused applications that drive measurable growth. By combining lean development practices, marketing psychology, and SEO driven acquisition strategies, I deliver MVPs that gain traction from day one. With experience across fintech, edtech, healthcare, and AI, I focus on creating solutions that are not only technically sound but also aligned with real business outcomes.",
+    "Helping founders and businesses transform ideas into scalable SaaS products. I specialize in designing and building fast, conversion focused applications that drive measurable growth. By combining lean development practices, marketing psychology, and SEO driven acquisition strategies, I deliver MVPs that gain traction from day one. With experience across fintech, edtech, healthcare, and AI, I focus on creating solutions that are not only technically sound but also aligned with real business outcomes.",
   avatarUrl: "/me.webp",
   url: "https://muhammadtanveerabbas.vercel.app/",
   skills: [
@@ -27,7 +27,7 @@ export const DATA = {
     "Git & GitHub",
     "SEO & CRO",
     "SaaS Architecture & Deployment",
-    "Product-Market Fit Strategy",
+    "Product Market Fit Strategy",
   ],
 
   navbar: [
@@ -75,7 +75,7 @@ export const DATA = {
       end: "Jul 2025",
       badges: [],
       description:
-        "Designed and delivered a fully functional MVP investment platform with real-time stock data, automated SEC compliance reporting, multi-factor authentication, and bank-grade security. Completed within 12 days, enabling the client to secure $50K in seed funding.",
+        "Designed and delivered a fully functional MVP investment platform with real time stock data, automated SEC compliance reporting, multi factor authentication, and bank grade security. Completed within 12 days, enabling the client to secure $50K in seed funding.",
     },
     {
       company: "EdTech Platform",
@@ -97,7 +97,7 @@ export const DATA = {
       end: "Dec 2024",
       badges: [],
       description:
-        "Built a HIPAA-compliant SaaS platform with encrypted EHR storage, Twilio video integration, and insurance verification APIs. Launched within two weeks and reached $25K MRR within 90 days.",
+        "Built a HIPAA compliant SaaS platform with encrypted EHR storage, Twilio video integration, and insurance verification APIs. Launched within two weeks and reached $25K MRR within 90 days.",
     },
     {
       company: "AI Startup",
@@ -154,7 +154,7 @@ export const DATA = {
       dates: "May 2025",
       active: true,
       description:
-        "A visually dynamic, scroll-powered marketing website designed for a modern mint-based beverage brand, this site deliver storytelling high impact, responsive user experience.",
+        "A visually dynamic, scroll powered marketing website designed for a modern mint based beverage brand, this site deliver storytelling high impact, responsive user experience.",
       tags: ["Next.js", "TypeScript", "GSAP", "TailwindCSS"],
       links: [
         {
@@ -176,7 +176,7 @@ export const DATA = {
       dates: "June 2025",
       active: true,
       description:
-        "A modern, feature-rich jewellery e-commerce landing page platform. Designed, developed, and sold animated UI components for developers. SEO optimized to enhance product visibility.",
+        "A modern, feature rich jewellery ecommerce landing page platform. Designed, developed, and sold animated UI components for developers. SEO optimized to enhance product visibility.",
       tags: ["Next.js", "TypeScript", "GSAP", "TailwindCSS"],
       links: [
         {
