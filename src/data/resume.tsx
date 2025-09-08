@@ -75,7 +75,7 @@ export const DATA = {
       end: "Jul 2025",
       badges: [],
       description:
-        "Designed and delivered a fully functional MVP investment platform with real time stock data, automated SEC compliance reporting, multi factor authentication, and security., enabling the client to secure $50K in seed funding.",
+        "Designed and delivered a fully functional MVP investment platform with real time stock data, automated SEC compliance reporting, multi factor authentication, and security.Enabling the client to secure $50K in seed funding.",
     },
     {
       company: "EdTech Platform",
