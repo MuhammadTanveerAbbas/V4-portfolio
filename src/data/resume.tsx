@@ -75,7 +75,7 @@ export const DATA = {
       end: "Jul 2025",
       badges: [],
       description:
-        "Designed and delivered a fully functional MVP investment platform with real time stock data, automated SEC compliance reporting, multi factor authentication, and bank grade security. Completed within 12 days, enabling the client to secure $50K in seed funding.",
+        "Designed and delivered a fully functional MVP investment platform with real time stock data, automated SEC compliance reporting, multi factor authentication, and security., enabling the client to secure $50K in seed funding.",
     },
     {
       company: "EdTech Platform",
@@ -86,7 +86,7 @@ export const DATA = {
       end: "Mar 2025",
       badges: [],
       description:
-        "Developed a robust course marketplace with Cloudflare Stream for video delivery, progressive video loading, Lemon Squeezy subscription management, and custom student progress tracking. Achieved 1,000+ student enrollments in the first month.",
+        "Developed a robust course marketplace with Cloudflare Stream for video delivery, progressive video loading, Lemon Squeezy subscription management, and custom student progress tracking. Achieved 1,000+ student enrollments in the first Quarter.",
     },
     {
       company: "Healthcare SaaS",
@@ -121,7 +121,7 @@ export const DATA = {
       start: "Dec 2022",
       end: "Jun 2026",
     },
-   {
+    {
       school: "Claude",
       href: "https://verify.skilljar.com/c/sdqqcxaeu566",
       degree: "AI Fluency Framework Foundations",

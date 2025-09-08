@@ -7,7 +7,7 @@ import { Inter as FontSans } from "next/font/google";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Tanveer Portfolio",
+  title: "Tanveer-Portfolio",
   icons: {
     icon: "./favicon.ico",
   },
