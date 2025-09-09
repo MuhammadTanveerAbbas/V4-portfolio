@@ -51,14 +51,14 @@ export const DATA = {
       },
       X: {
         name: "X",
-        url: "https://x.com/tanveer_webdev",
+        url: "https://x.com/m_tanveerabbas",
         icon: Icons.x,
         navbar: true,
       },
 
       email: {
         name: "Send Email",
-        url: "mailto:muhammadtanveerabbas.dev@gmail.com",
+        url: "mailto:muhammadtanveerabbas.contact@gmail.com",
         icon: Icons.email,
         navbar: true,
       },
