@@ -250,7 +250,7 @@ export const DATA = {
     {
       title: "Aetherium - AI Tool",
       href: "https://aetherium-ai.vercel.app/",
-      dates: "May 2025",
+      dates: "April 2025",
       active: true,
       description:
         "Unleash your creative potential with the ultimate Next.js content creation powerhouse that generates publication ready articles, SEO optimized copy, and viral video scripts.",
@@ -283,7 +283,7 @@ export const DATA = {
     {
       title: "Subsight - Tracker",
       href: "https://subsight-tracker.vercel.app/",
-      dates: "April 2025",
+      dates: "May 2025",
       active: true,
       description:
         "Take complete control of your recurring expenses with privacy first subscription management that operates entirely within your browser's secure environment.Instant insights, zero hassle.",
