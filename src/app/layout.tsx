@@ -7,7 +7,7 @@ import { Inter as FontSans } from "next/font/google";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Tanveer-Portfolio",
+  title: "Tanveer - Portfolio",
   icons: {
     icon: "./favicon.ico",
   },
@@ -31,7 +31,7 @@ export default function RootLayout({
           fontSans.variable
         )}
       >
-        <ThemeProvider attribute="class" defaultTheme="dark" enableSystem>
+        <ThemeProvider attribute="class" defaultTheme="light" enableSystem>
           <TooltipProvider delayDuration={0}>
             {children}
             <Navbar />
