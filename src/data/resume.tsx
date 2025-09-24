@@ -182,39 +182,6 @@ export const DATA = {
       image: "/images/kanbi-ActionBoard.webp",
     },
     {
-      title: "AI Dev Toolkit",
-      href: "https://ai-dev-toolkit.vercel.app/",
-      dates: "February 2025",
-      active: true,
-      description:
-        "Revolutionary open source developer toolkit featuring twelve zero configuration AI utilities that eliminate repetitive coding nightmares forever.No sign up, just instant productivity ",
-      tags: [
-        "Next.js",
-        "TypeScript",
-        "TailwindCSS",
-        "SaaS",
-        "AI",
-        "Open Source",
-        "DevTools",
-        "Automation",
-        "Code Generation",
-        "Developer Experience",
-      ],
-      links: [
-        {
-          type: "Preview",
-          href: "https://ai-dev-toolkit.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/MuhammadTanveerAbbas/Ai-Dev-Toolkit",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/images/AI-Dev-Toolkit.webp",
-    },
-    {
       title: "Clario - Summarizer",
       href: "https://clario-summarizer.vercel.app/",
       dates: "March 2025",
@@ -246,39 +213,6 @@ export const DATA = {
         },
       ],
       image: "/images/Clario-Summarizer.webp",
-    },
-    {
-      title: "Aetherium - AI Tool",
-      href: "https://aetherium-ai.vercel.app/",
-      dates: "April 2025",
-      active: true,
-      description:
-        "Unleash your creative potential with the ultimate Next.js content creation powerhouse that generates publication ready articles, SEO optimized copy, and viral video scripts.",
-      tags: [
-        "Next.js",
-        "TypeScript",
-        "TailwindCSS",
-        "SaaS",
-        "AI",
-        "Content Creation",
-        "SEO",
-        "Marketing",
-        "Copywriting",
-        "Video Scripts",
-      ],
-      links: [
-        {
-          type: "Preview",
-          href: "https://aetherium-ai.vercel.app/",
-          icon: <Icons.globe className="size-3" />,
-        },
-        {
-          type: "Source",
-          href: "https://github.com/MuhammadTanveerAbbas/Aetherium-AI",
-          icon: <Icons.github className="size-3" />,
-        },
-      ],
-      image: "/images/Aetherium-AI.webp",
     },
     {
       title: "Subsight - Tracker",
