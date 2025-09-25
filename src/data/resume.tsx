@@ -269,7 +269,7 @@ export const DATA = {
       links: [
         {
           type: "Preview",
-          href: "https://ledgerly-tracker.vercel.app/",
+          href: "https://reckoner-cal.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
