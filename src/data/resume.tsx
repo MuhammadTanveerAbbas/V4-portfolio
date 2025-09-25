@@ -184,7 +184,7 @@ export const DATA = {
     {
       title: "Clario - Summarizer",
       href: "https://clario-summarizer.vercel.app/",
-      dates: "March 2025",
+      dates: "Febuarary 2025",
       active: true,
       description:
         "Cut through information overload with AI powered summarization engine that transforms dense, chaotic text into razor sharp actionable insights instantly.No sign up, just instant productivity ",
@@ -217,7 +217,7 @@ export const DATA = {
     {
       title: "Subsight - Tracker",
       href: "https://subsight-tracker.vercel.app/",
-      dates: "May 2025",
+      dates: "March 2025",
       active: true,
       description:
         "Take complete control of your recurring expenses with privacy first subscription management that operates entirely within your browser's secure environment.Instant insights, zero hassle.",
@@ -248,12 +248,12 @@ export const DATA = {
       image: "/images/Subsight.webp",
     },
     {
-      title: "Ledgerly - Finance Dashboard",
-      href: "https://ledgerly-tracker.vercel.app/",
-      dates: "June 2025",
+      title: "Reckoner - Runway Calculator",
+      href: "https://reckoner-cal.vercel.app/",
+      dates: "April 2025",
       active: true,
       description:
-        "Master your financial future with an intelligent personal finance dashboard that transforms spending chaos into crystal clear insights.Fast, simple, and focused on your finances. ",
+        "A web based tool that calculates your company's financial runway the number of months your business can operate before it runs out of money. ",
       tags: [
         "Next.js",
         "TypeScript",
@@ -274,11 +274,11 @@ export const DATA = {
         },
         {
           type: "Source",
-          href: "https://github.com/MuhammadTanveerAbbas/Ledgerly-Dashboard",
+          href: "https://github.com/MuhammadTanveerAbbas/Reckoner-Runway-cal",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/images/Ledgerly.webp",
+      image: "/images/Reckoner.webp",
     },
   ],
 } as const;
